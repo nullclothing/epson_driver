@@ -1714,7 +1714,7 @@
     (uuid ff1cb6da-9d99-49a7-a9d3-fbc08b81fcae)
   )
 
-  (text "Running DAC in single supply voltage switching mode\nYes, it makes sense. I promise\nIt will reduce the output range by about half though,\nso you need to compensate the amplifier gain"
+  (text "Running DAC in single supply voltage switching mode\nYes, it makes sense. I promise\nIt will reduce the output range though,\nso you need to compensate the amplifier gain slightly"
     (at 104.14 57.15 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3acc3e59-92eb-4a5f-b30b-a98d2819626d)
